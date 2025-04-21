@@ -1,1 +1,1 @@
-# safe_mechanism_workshop
+# safe interpretability workshop
